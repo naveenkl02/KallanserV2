@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="170" height="170"/>
+  <img border-radius: 15px src="kallanbot.jpg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="KallanserV2" src="https://img.shields.io/badge/naveenkl02-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>

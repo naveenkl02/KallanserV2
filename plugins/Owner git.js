@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater NAVEEN*
 *Bgm updation💘*
 
-*Owner number wa.me/9387312346*
+*Owner number wa.me/919387312346*
 
 *githublink       https://github.com/Naveenkl02/KallanserV2*
 

@@ -203,7 +203,7 @@ else if (Config.WORKTYPE == 'public') {
 }));
 
 /*slf*/
-Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'help ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
